@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100%;
+  background: #23424a;
+  color: white;
+  padding: 50px 50px;
+}
+
+.intro-content {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+.intro-content p,
+.intro-content h1 {
+  width: 50%;
+}
+
+.body-container {
+  padding: 0 50px;
+}
+.body-text {
+  margin: 0 auto;
+  max-width: 750px;
+}
