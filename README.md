@@ -15,7 +15,7 @@
         <li>rem for padding and margin takes the font-size of the root element no matter what.</li>
         <li>em font-size takes on the font-size of the parent element, and it compounds.</li>
     </ul>
-<details>
+</details>
 
 <details open>
     <summary><b>Using Percentages for Width, and Avoiding Heights</b></summary>
