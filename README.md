@@ -7,13 +7,13 @@
     <summary>Notes on <code>rem</code> & <code>em</code></summary>
     <a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a>
     <ul>
-        <ul>Try to stick with using either em or rem throughout the site.</ul>
-        <ul>Use em for adaptibility and rem for consistency.</ul>
-        <ul>Padding might need to adapt sometimes, for buttons, so use em for button paddings.</ul>
-        <ul>Margins might need consistency sometimes, between blocks/buttons/elements, so use rem in such cases.</ul>
-        <ul>em for padding and margin takes the font-size of the element for which em is being applied.</ul>
-        <ul>rem for padding and margin takes the font-size of the root element no matter what.</ul>
-        <ul>em font-size takes on the font-size of the parent element, and it compounds.</ul>
+        <li>Try to stick with using either em or rem throughout the site.</li>
+        <li>Use em for adaptibility and rem for consistency.</li>
+        <li>Padding might need to adapt sometimes, for buttons, so use em for button paddings.</li>
+        <li>Margins might need consistency sometimes, between blocks/buttons/elements, so use rem in such cases.</li>
+        <li>em for padding and margin takes the font-size of the element for which em is being applied.</li>
+        <li>rem for padding and margin takes the font-size of the root element no matter what.</li>
+        <li>em font-size takes on the font-size of the parent element, and it compounds.</li>
     </ul>
 <details>
 
