@@ -1,7 +1,20 @@
-<h1>Conquering Responsive Layouts Challenges</h1>
-<p>A set of responsive CSS3 layout challenges from Kevin Powell's online course.</p>
+<h1>Conquering Responsive Layouts - Challenges</h1>
+<p>A set of responsive CSS3 layout challenges and notes from Kevin Powell's online course.</p>
 
 <hr>
+
+<details open>
+    <summary>Notes on <code>rem</code> & <code>em</code></summary>
+    <ul>
+        <ul>Try to stick with using either em or rem throughout the site.</ul>
+        <ul>Use em for adaptibility and rem for consistency.</ul>
+        <ul>Padding might need to adapt sometimes, for buttons, so use em for button paddings.</ul>
+        <ul>Margins might need consistency sometimes, between blocks/buttons/elements, so use rem in such cases.</ul>
+        <ul>em for padding and margin takes the font-size of the element for which em is being applied.</ul>
+        <ul>rem for padding and margin takes the font-size of the root element no matter what.</ul>
+        <ul>em font-size takes on the font-size of the parent element, and it compounds.</ul>
+    </ul>
+<details>
 
 <details open>
     <summary><b>Using Percentages for Width, and Avoiding Heights</b></summary>
