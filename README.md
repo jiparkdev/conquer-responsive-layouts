@@ -4,17 +4,17 @@
 <hr>
 
 <details open>
-    <summary>Using Percentages for Width, and Avoiding Heights</summary>
-    <ol>
-        <li>Source Code</li>
+    <summary><b>Using Percentages for Width, and Avoiding Heights</b></summary>
+    <ul>
+        <li><a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
         <li>Live Demo</li>
-    </ol>
+    </ul>
 </details>
 
 <details open>
-    <summary>Using Max-Width and Width Properties</summary>
-    <ol>
-        <li>Source Code</li>
+    <summary><b>Using Max-Width and Width Properties</b></summary>
+    <ul>
+        <li><a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
         <li>Live Demo</li>
-    </ol>
+    </ul>
 </details>
