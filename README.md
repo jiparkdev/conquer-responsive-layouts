@@ -4,8 +4,8 @@
 <hr>
 
 <details open>
-    <summary>Notes on <code>rem</code> & <code>em</code></summary>
-    <a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a>
+    <summary><b>Notes on <code>rem</code> & <code>em</code></b></summary>
+    <blockquote><a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a></blockquote>
     <ul>
         <li>Try to stick with using either em or rem throughout the site.</li>
         <li>Use em for adaptibility and rem for consistency.</li>
