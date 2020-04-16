@@ -6,15 +6,15 @@
 <details open>
     <summary><b>Using Percentages for Width, and Avoiding Heights</b></summary>
     <ul>
-        <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
-        <li>🔗 Live Demo</li>
+        <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width" target="_blank">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/percentages-width" target="_blank">Live Demo</a></li>
     </ul>
 </details>
 
 <details open>
     <summary><b>Using Max-Width and Width Properties</b></summary>
     <ul>
-        <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
-        <li>🔗 Live Demo</li>
+        <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width" target="_blank">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/max-width" target="_blank">Live Demo</a></li>
     </ul>
 </details>
