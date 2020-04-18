@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.section-top {
+  background-color: #23424a;
+  padding: 148px 7%;
+}
+
+.container {
+  width: 100%;
+  max-width: 700px;
+}
+
+.intro {
+  color: #ffffff;
+}
+
+.intro h1 {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto Black;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48.0529px;
+  line-height: 56px;
+}
+
+.intro p {
+  font-family: Roboto;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.button-box {
+  background-color: #38cfd9;
+  border-radius: 2rem;
+  width: 17.8125em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.button-box p {
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.3125rem;
+  line-height: 150.19%;
+  letter-spacing: 0.047em;
+  text-transform: uppercase;
+  color: #072a2d;
+}

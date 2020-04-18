@@ -4,7 +4,7 @@
 <hr>
 
 <details open>
-    <summary><b>Notes on <code>rem</code> & <code>em</code></b></summary>
+    <summary><strong>Notes on <code>rem</code> & <code>em</code></strong></summary>
     <blockquote>YouTube Video: <a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a></blockquote>
     <ul>
         <li>Try to stick with using either em or rem throughout the site.</li>
@@ -27,7 +27,7 @@
 </details>
 
 <details open>
-    <summary><b>Using Max-Width and Width Properties</b></summary>
+    <summary><strong>Using Max-Width and Width Properties</strong></summary>
     <p>Learned that max-width property could help us in avoiding the issue of content stretching out too much on larger viewport sizes. So, the recommendation is to have both widths as a percentage and max-width as a fixed value.</p>
     <ul>
         <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
@@ -36,5 +36,15 @@
     <strong>Notes</strong>
     <ul>
         <li>Always remember to set width to a percentage and max-width to pixels.</li>
+    </ul>
+</details>
+
+<details open>
+    <summary><strong>Challenge 3: Free-form - Apply What You Learned</strong></summary>
+    <p>We were only given a Figma design and were not provided with any starter code. I applied what I learned from previous challenges to this one to mimic the look & feel of the following design in the screenshot.</p>
+    <img src="" />
+    <ul>
+        <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/c3-free-form">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/c3-free-form">Live Demo</a></li>
     </ul>
 </details>
