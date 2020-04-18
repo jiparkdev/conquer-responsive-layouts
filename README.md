@@ -42,7 +42,7 @@
 <details open>
     <summary><strong>Challenge 3: Free-form - Apply What You Learned</strong></summary>
     <p>We were only given a Figma design and were not provided with any starter code. I applied what I learned from previous challenges to this one to mimic the look & feel of the following design in the screenshot.</p>
-    <img src="https://github.com/jiparkdev/conquer-responsive-layouts/blob/master/c3-free-form/figma-design.png" />
+    <img src="https://github.com/jiparkdev/conquer-responsive-layouts/blob/master/c3-free-form/figma-design.png" style="border: 1px solid #eee"/>
     <ul>
         <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/c3-free-form">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/c3-free-form">Live Demo</a></li>
