@@ -18,7 +18,7 @@
 </details>
 
 <details open>
-    <summary><b>Using Percentages for Width, and Avoiding Heights</b></summary>
+    <summary><h2>Using Percentages for Width, and Avoiding Heights</h2></summary>
     <p>Learned that using percentage for width is recommended for responsive layouts. Also, height should not be used in many cases to avoid overflowing content when displaying the webpage in smaller viewport sizes.</p>
     <ul>
         <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
@@ -33,6 +33,7 @@
         <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/max-width">Live Demo</a></li>
     </ul>
+    <h3>Notes</h3>
     <ul>
         <li>Always remember to set width to a percentage and max-width to pixels.</li>
     </ul>
