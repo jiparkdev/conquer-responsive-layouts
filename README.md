@@ -48,3 +48,10 @@
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/c3-free-form">Live Demo</a></li>
     </ul>
 </details>
+
+<details open>
+    <summary><strong>Day 6 Extra Curricular Activities</strong></summary>
+    <ul>
+        <li><a href="https://youtu.be/pautqDqa54I">Why you shouldn't set font-sizes using em</a>: Essentially, do not use <code>em</code> for font-size, instead, use <code>rem</code>. Also, use <code>em</code> for padding instead.</li>
+    </ul>
+</details>
