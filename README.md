@@ -33,4 +33,7 @@
         <li>👨‍💻 <a href="https://github.com/jiparkdev/conquer-responsive-layouts/tree/master/percentages-width">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/max-width">Live Demo</a></li>
     </ul>
+    <ul>
+        <li>Always remember to set width to a percentage and max-width to pixels.</li>
+    </ul>
 </details>
