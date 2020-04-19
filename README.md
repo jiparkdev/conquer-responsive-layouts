@@ -56,3 +56,10 @@
         <li><a href="https://css-tricks.com/tale-width-max-width">A Tale of `width` and `max-width`</a>: A rule of thumb is to use percentage for <code>width</code> and pixels for <code>max-width</code>.</li>
     </ul>
 </details>
+
+<details open>
+    <summary><strong>Day 7 Notes</strong></summary>
+    <ul>
+        <li>Stick to using classes for the CSS selection, and not inline, IDs, or HTML elements.</li>
+    </ul>
+</details>

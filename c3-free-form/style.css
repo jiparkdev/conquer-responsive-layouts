@@ -1,4 +1,6 @@
-* {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -19,6 +21,7 @@ body {
 
 .intro {
   color: #ffffff;
+  margin-bottom: 3.5em;
 }
 
 .intro h1 {
@@ -39,6 +42,7 @@ body {
 }
 
 .button-box {
+  display: inline-block;
   background-color: #38cfd9;
   border-radius: 2rem;
   width: 17.8125em;
@@ -46,9 +50,15 @@ body {
   padding-bottom: 1em;
   padding-left: 3em;
   padding-right: 3em;
+  text-decoration: none;
 }
 
-.button-box p {
+.button-box:hover,
+.button-box:focus {
+  opacity: 0.75;
+}
+
+.button-box span {
   margin: 0;
   font-family: Roboto;
   font-style: normal;
