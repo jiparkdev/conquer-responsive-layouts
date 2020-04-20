@@ -63,3 +63,17 @@
         <li>Stick to using classes for the CSS selection, and not inline, IDs, or HTML elements.</li>
     </ul>
 </details>
+
+<details open>
+    <summary><strong>Flexbox</strong></summary>
+    <strong>Notes</strong>
+    <ul>
+        <li>
+            By default, Flexbox wants to be as smallest it possible can be. It is the content that forces and stretches the Flexbox items and not that Flexbox wants to expand to accommodate them. Flexbox is only squeezing as much as it can.
+        </li>
+        <li>
+            If you have multiple columns (flex items) for a flex container, and if you want the items to have an equal distribution of their widths, then give each of the items a width of 100%.
+        </li>
+        <li>By default, the flex items want to become columns inside flex container. Only the direct children of the flex container become flex items.</li>
+    </ul>
+</details>
