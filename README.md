@@ -83,7 +83,7 @@
         </p>
         <ul>
             <li>👨‍💻 <a href="flexbox-challenge-1">Source Code</a></li>
-            <li>🔗 <a href="flexbox-challenge-1/index.html">Live Demo</a></li>
+            <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/flexbox-challenge-1/index.html">Live Demo</a></li>
         </ul>
     </div>
 </details>
