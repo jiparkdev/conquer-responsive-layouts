@@ -76,4 +76,14 @@
         </li>
         <li>By default, the flex items want to become columns inside flex container. Only the direct children of the flex container become flex items.</li>
     </ul>
+    <div>
+        <strong>Challenge</strong>
+        <p>
+        The challenge this week is to mimic the look & feel of the [design specification](flexbox-challenge-1/design-specs.pdf).
+        </p>
+        <ul>
+            <li>👨‍💻 [Source Code](flexbox-challenge-1)</li>
+            <li>🔗 [Live Demo](flexbox-challenge-1/index.html)</li>
+        </ul>
+    </div>
 </details>
