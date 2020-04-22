@@ -3,7 +3,7 @@
 
 <hr>
 
-<details open>
+<details>
     <summary><strong>Notes on <code>rem</code> & <code>em</code></strong></summary>
     <blockquote>YouTube Video: <a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a></blockquote>
     <ul>
@@ -17,7 +17,7 @@
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Using Percentages for Width, and Avoiding Heights</strong></summary>
     <p>Learned that using percentage for width is recommended for responsive layouts. Also, height should not be used in many cases to avoid overflowing content when displaying the webpage in smaller viewport sizes.</p>
     <ul>
@@ -26,7 +26,7 @@
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Using Max-Width and Width Properties</strong></summary>
     <p>Learned that max-width property could help us in avoiding the issue of content stretching out too much on larger viewport sizes. So, the recommendation is to have both widths as a percentage and max-width as a fixed value.</p>
     <ul>
@@ -39,7 +39,7 @@
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Challenge 3: Free-form - Apply What You Learned</strong></summary>
     <p>We were only given a Figma design and were not provided with any starter code. I applied what I learned from previous challenges to this one to mimic the look & feel of the following design in the screenshot.</p>
     <img src="https://github.com/jiparkdev/conquer-responsive-layouts/blob/master/c3-free-form/figma-design.png" />
@@ -49,7 +49,7 @@
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Day 6 Extra Curricular Activities</strong></summary>
     <ul>
         <li><a href="https://youtu.be/pautqDqa54I">Why you shouldn't set font-sizes using em</a>: Essentially, do not use <code>em</code> for font-size, instead, use <code>rem</code>.</li>
@@ -57,14 +57,14 @@
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Day 7 Notes</strong></summary>
     <ul>
         <li>Stick to using classes for the CSS selection, and not inline, IDs, or HTML elements.</li>
     </ul>
 </details>
 
-<details open>
+<details>
     <summary><strong>Flexbox</strong></summary>
     <strong>Notes</strong>
     <ul>
@@ -86,4 +86,18 @@
             <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/flexbox-challenge-1/index.html">Live Demo</a></li>
         </ul>
     </div>
+</details>
+
+<details open>
+    <summary><strong>Day 9 - A Deeper Dive into Flexbox</strong></summary>
+    <strong>Notes</strong>
+    <ul>
+        <li>On all the sites, add a max-width of 100% for all <code>img</code> elements. This is to make the image responsive so that it won't grow larger than its original size but gets smaller when the viewport size gets smaller.</li>
+        <li>When using Flexbox to create columns and you want to have an even space between the flex items, you can you <code>justify-content: space-between</code> and then have each column set with their own widths in percentages.</li>
+        <li>You can reduce the amount of HTML by relocating the class names to a other HTML elements to have multiple classes for a single element.</li>
+    </ul>
+    <ul>
+        <li>👨‍💻 <a href="day9-flexbox">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/day9-flexbox/index.html">Live Demo</a></li>
+    </ul>
 </details>

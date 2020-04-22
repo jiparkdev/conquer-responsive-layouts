@@ -1,0 +1,149 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.section-top {
+  background-color: #23424a;
+  padding-top: 9.25em;
+  padding-bottom: 9.25em;
+}
+
+.container {
+  padding-left: 7%;
+  padding-right: 7%;
+  width: 100%;
+}
+
+.intro {
+  color: #ffffff;
+  margin-bottom: 3.5em;
+  max-width: 700px;
+}
+
+.intro h1 {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto Black;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 56px;
+}
+
+.intro p {
+  font-family: Roboto;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.button-box {
+  display: inline-block;
+  background-color: #38cfd9;
+  border-radius: 2rem;
+  width: 17.8125em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  text-decoration: none;
+}
+
+.button-box:hover,
+.button-box:focus {
+  opacity: 0.75;
+}
+
+.button-box span {
+  margin: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.3125rem;
+  line-height: 150.19%;
+  letter-spacing: 0.047em;
+  text-transform: uppercase;
+  color: #072a2d;
+}
+
+.section-top-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-top-left-col {
+  width: 60%;
+}
+
+.section-top-right-col {
+  width: 35%;
+}
+
+/* ================================================================
+Section Bottom Styles
+================================================================ */
+
+.section-bottom {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2.7em;
+  padding-bottom: 2.7em;
+}
+
+.section-bottom h2 {
+  margin: 0;
+}
+
+.section-bottom-left {
+  width: 60%;
+}
+
+.section-bottom-left h2 {
+  color: #136c72;
+  font-family: Roboto Black;
+  font-size: 2.25rem;
+}
+
+.section-bottom-left p {
+  line-height: 30px;
+  font-family: Roboto;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.section-bottom-aside {
+  background-color: #136c72;
+  width: 35%;
+  padding: 3em 2em;
+  color: #ffffff;
+}
+
+.aside-row {
+  text-align: center;
+}
+
+.aside-row h2 {
+  font-family: Roboto Black;
+  font-size: 2.25rem;
+}
+
+.aside-row p {
+  line-height: 30px;
+  font-family: Roboto;
+  font-size: 1.3rem;
+  font-style: normal;
+  font-weight: 300;
+}
