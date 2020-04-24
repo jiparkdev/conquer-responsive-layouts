@@ -88,7 +88,7 @@
     </div>
 </details>
 
-<details open>
+<details closed>
     <summary><strong>Day 9 - A Deeper Dive into Flexbox</strong></summary>
     <strong>Notes</strong>
     <ul>
@@ -99,5 +99,14 @@
     <ul>
         <li>👨‍💻 <a href="day9-flexbox">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/day9-flexbox/index.html">Live Demo</a></li>
+    </ul>
+</details>
+
+<details open>
+    <summary><strong>Day 11 - Using Flexbox for Navigation</strong></summary>
+    <strong>Notes</strong>
+    <ul>
+        <li>Make sure you are using <code>main</code> HTML element in any webpage for semantic HTML and accessibility.</li>
+        <li>Avoid using <code>div</code> on everything. Make sure to have semantic HTML elements whenever possible. Limit the usage of <code>div</code> and try to use it only when necessary.</li>
     </ul>
 </details>
