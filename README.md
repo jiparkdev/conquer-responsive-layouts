@@ -109,4 +109,8 @@
         <li>Make sure you are using <code>main</code> HTML element in any webpage for semantic HTML and accessibility.</li>
         <li>Avoid using <code>div</code> on everything. Make sure to have semantic HTML elements whenever possible. Limit the usage of <code>div</code> and try to use it only when necessary.</li>
     </ul>
+    <ul>
+        <li>👨‍💻 <a href="nav-challenge">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/nav-challenge/index.html">Live Demo</a></li>
+    </ul>
 </details>
