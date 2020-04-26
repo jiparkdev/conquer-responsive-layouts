@@ -102,7 +102,7 @@
     </ul>
 </details>
 
-<details open>
+<details closed>
     <summary><strong>Day 11 - Using Flexbox for Navigation</strong></summary>
     <strong>Notes</strong>
     <ul>
@@ -113,4 +113,17 @@
         <li>👨‍💻 <a href="nav-challenge">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/nav-challenge/index.html">Live Demo</a></li>
     </ul>
+</details>
+
+<details open>
+    <summary>Day 12 - Flexbox Challenge #4</summary>
+    <strong>Notes</strong>
+    <ul>
+        <li>I was given a design doc, but no starter code. Built the webpage from scratch.</li>
+    </ul>
+    <ul>
+        <li>📃 <a href="flexbox-challenge-4/flexbox-challenge-4.pdf">Design Doc</li>
+        <li>👨‍💻 <a href="flexbox-challenge-4">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/flexbox-challenge-4/index.html">Live Demo</a></li>
+    <ul>
 </details>
