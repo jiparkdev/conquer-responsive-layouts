@@ -116,11 +116,8 @@
 </details>
 
 <details open>
-    <summary>Day 12 - Flexbox Challenge #4</summary>
-    <strong>Notes</strong>
-    <ul>
-        <li>I was given a design doc, but no starter code. Built the webpage from scratch.</li>
-    </ul>
+    <summary><strong>Day 12 - Flexbox Challenge #4</strong></summary>
+    <p>I was given a design doc, but no starter code. Built the webpage from scratch.</p>
     <ul>
         <li>📃 <a href="flexbox-challenge-4/flexbox-challenge-4.pdf">Design Doc</li>
         <li>👨‍💻 <a href="flexbox-challenge-4">Source Code</a></li>
