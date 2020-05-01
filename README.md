@@ -116,8 +116,11 @@
 </details>
 
 <details open>
-    <summary><strong>Day 12 - Flexbox Challenge #4</strong></summary>
+    <summary><strong>Day 12 & Day 19 - Flexbox Challenge #4</strong></summary>
     <p>I was given a design doc, but no starter code. Built the webpage from scratch. Later, I have replaced the images with a higher resolution ones.</p>
+    <ul>
+        <li>Avoid any long stretch of text that goes from one end to the other end. DO NOT have any lines of text that goes all the across the screen (a dead give away that they're not designers). Designers never let lines of text go all the way across. This is why we often have two or more columns of text. Eye does not track the lines properly for long line of text. Make sure you use either the max width and/or multiple columns.</li>
+    </ul>
     <ul>
         <li>📃 <a href="flexbox-challenge-4/flexbox-challenge-4.pdf">Design Doc</li>
         <li>👨‍💻 <a href="flexbox-challenge-4">Source Code</a></li>

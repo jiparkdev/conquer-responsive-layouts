@@ -54,7 +54,7 @@ Hero Section
   margin-bottom: 0.5rem;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 900px) {
   .hero-content-box {
     width: 70%;
     margin: 0 auto;
