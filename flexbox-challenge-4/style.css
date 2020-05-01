@@ -54,7 +54,7 @@ Hero Section
   margin-bottom: 0.5rem;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 600px) {
   .hero-content-box {
     width: 70%;
     margin: 0 auto;
@@ -90,7 +90,7 @@ Main Top Section
   line-height: 2rem;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 600px) {
   .main-top-content-box {
     padding-top: 5em;
     padding-bottom: 7em;
@@ -140,7 +140,7 @@ Main Middle Section
   color: #ffffff;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 600px) {
   .main-middle {
     padding-top: 6em;
     padding-bottom: 6em;
@@ -192,7 +192,7 @@ Main Bottom Section
   color: #ffffff;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 600px) {
   .main-bottom {
     padding-top: 6em;
     padding-bottom: 6em;
