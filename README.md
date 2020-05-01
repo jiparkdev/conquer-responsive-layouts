@@ -122,7 +122,7 @@
         <li>📃 <a href="flexbox-challenge-4/flexbox-challenge-4.pdf">Design Doc</li>
         <li>👨‍💻 <a href="flexbox-challenge-4">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/flexbox-challenge-4/index.html">Live Demo</a></li>
-    <ul>
+    </ul>
     <ul>
         <li>Image #1 Attribution: Photo by Sebastien Gabriel on Unsplash</li>
         <li>Image #2 Attribution: Photo by Artem Sapegin on Unsplash</li>
