@@ -117,10 +117,14 @@
 
 <details open>
     <summary><strong>Day 12 - Flexbox Challenge #4</strong></summary>
-    <p>I was given a design doc, but no starter code. Built the webpage from scratch.</p>
+    <p>I was given a design doc, but no starter code. Built the webpage from scratch. Later, I have replaced the images with a higher resolution ones.</p>
     <ul>
         <li>📃 <a href="flexbox-challenge-4/flexbox-challenge-4.pdf">Design Doc</li>
         <li>👨‍💻 <a href="flexbox-challenge-4">Source Code</a></li>
         <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/flexbox-challenge-4/index.html">Live Demo</a></li>
     <ul>
+    <ul>
+        <li>Image #1 Attribution: <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@sgabriel?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Sebastien Gabriel"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Sebastien Gabriel</span></a></li>
+        <li>Image #2 Attribution: <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@sapegin?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Artem Sapegin"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Artem Sapegin</span></a></li>
+    </ul>
 </details>
