@@ -21,7 +21,7 @@ h2 {
 
 .container {
   width: 100%;
-  max-width: 1200px;
+  max-width: 1128px;
   margin: 0 auto;
 }
 
@@ -58,8 +58,10 @@ Hero Section
   .hero-content-box {
     width: 70%;
     margin: 0 auto;
-    padding-top: 15em;
-    padding-bottom: 15em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 660px;
   }
 }
 
