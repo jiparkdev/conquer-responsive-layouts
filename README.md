@@ -3,6 +3,8 @@
 
 <hr>
 
+<p>Minimum HEIGHTS are fine! But fixed heights are a no no.</p>
+
 <details closed>
     <summary><strong>Notes on <code>rem</code> & <code>em</code></strong></summary>
     <blockquote>YouTube Video: <a href="https://www.youtube.com/watch?v=_-aDOAMmDHI">CSS em and rem explained</a></blockquote>
