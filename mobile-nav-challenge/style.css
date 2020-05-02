@@ -153,6 +153,11 @@ header {
   color: #ffffff;
 }
 
+.nav__link:hover,
+.nav__link:focus {
+  opacity: 0.75;
+}
+
 .nav__item {
   margin-top: 2em;
 }
