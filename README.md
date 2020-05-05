@@ -117,7 +117,7 @@
     </ul>
 </details>
 
-<details open>
+<details closed>
     <summary><strong>Day 12 & Day 19 - Flexbox Challenge #4</strong></summary>
     <p>I was given a design doc, but no starter code. Built the webpage from scratch. Later, I have replaced the images with a higher resolution ones.</p>
     <ul>
@@ -133,3 +133,12 @@
         <li>Image #2 Attribution: Photo by Artem Sapegin on Unsplash</li>
     </ul>
 </details>
+
+<details open>
+    <summary><strong>Final Challenge</strong></summary>
+    <ul>
+        <li>📃 <a href="final-challenge/final-challenge.pdf">Design Doc</li>
+        <li>👨‍💻 <a href="final-challenge">Source Code</a></li>
+        <li>🔗 <a href="https://jiparkdev.github.io/conquer-responsive-layouts/final-challenge/index.html">Live Demo</a></li>
+    </ul>
+</detalis>
