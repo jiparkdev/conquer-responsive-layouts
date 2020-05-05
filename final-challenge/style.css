@@ -124,6 +124,14 @@ Logo and Navigation Styles
   color: #FFFFFF;
 }
 
+.signin-link {
+  font-size: 0.95rem;
+}
+
+.signup-link {
+  font-size: 0.95rem;
+}
+
 .nav-link:focus,
 .nav-link:hover {
   opacity: 0.75;
