@@ -5,12 +5,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Final Challenge Website</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@600;700&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
   <section class="header-section">
     <header class="container header-box">
+      <button class="nav-toggle" aria-label="open navigation">
+        <span class="hamburger"></span>
+      </button>
       <img
         src="https://raw.githubusercontent.com/jiparkdev/conquer-responsive-layouts/master/mobile-nav-challenge/img/logo.svg"
         alt="conquering responsive layouts" class="crl-logo" />
@@ -18,9 +23,17 @@
         <ul class="nav-list">
           <li class="nav-item">
             <a href="#" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
             <a href="#" class="nav-link">About</a>
+          </li>
+          <li class="nav-item">
             <a href="#" class="nav-link">Contact</a>
+          </li>
+          <li class="nav-item">
             <a href="#" class="nav-link signin-link">Sign In</a>
+          </li>
+          <li class="nav-item">
             <a href="#" class="nav-link signup-link">Sign Up</a>
           </li>
         </ul>
@@ -30,7 +43,8 @@
   <section class="hero-section">
     <div class="container hero-box">
       <div class="hero-left">
-        <h1 class="hero-title">Responsive layouts <span class="ht-diff-color">don't have to be a struggle</span></h1>
+        <h1 class="hero-title">Responsive layouts</h1>
+        <h1 class="hero-title"><span class="hero-title-diff">don't have to be a struggle</span></h1>
       </div>
       <div class="hero-right">
         <p class="hero-desc">
@@ -193,6 +207,7 @@
       </div>
     </footer>
   </section>
+  <script src="main.js"></script>
 </body>
 
 </html>
