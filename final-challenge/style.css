@@ -149,6 +149,20 @@ Logo and Navigation Styles
   background-color: #A59678;
 }
 
+@media (min-width: 700px) {
+  .nav-link {
+    font-size: 1.125rem;
+  }
+
+  .signin-link {
+    font-size: 1.125rem;
+  }
+
+  .signup-link {
+    font-size: 1.125rem;
+  }
+}
+
 @media (min-width: 1000px) {
  
   .header-box {
@@ -171,6 +185,18 @@ Logo and Navigation Styles
 
   .nav-item + .nav-item {
     margin-left: 3rem;
+  }
+
+  .nav-link {
+    font-size: 1.125rem;
+  }
+
+  .signin-link {
+    font-size: 1.125rem;
+  }
+
+  .signup-link {
+    font-size: 1.125rem;
   }
 
 }
