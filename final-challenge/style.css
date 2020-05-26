@@ -1,4 +1,6 @@
-*,*::before,*::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -22,7 +24,7 @@ General Header Styles
 ======================================================== */
 
 .header-section {
-  background-color: #2E323F;
+  background-color: #2e323f;
 }
 
 .header-box {
@@ -44,7 +46,7 @@ Hamburger Menu Styles
   height: 3em;
   padding: 0em;
   border-radius: 50%;
-  background: #2E323F;
+  background: #2e323f;
   color: white;
   transition: opacity 250ms ease;
   position: absolute;
@@ -121,7 +123,7 @@ Logo and Navigation Styles
   font-size: 1rem;
   text-decoration: none;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .signin-link {
@@ -143,10 +145,10 @@ Logo and Navigation Styles
 
 .signup-link {
   display: block;
-  color: #FFFFFF;
+  color: #ffffff;
   padding: 0.25em 1em 0.25em 1em;
   border-radius: 20px;
-  background-color: #A59678;
+  background-color: #a59678;
 }
 
 @media (min-width: 700px) {
@@ -164,7 +166,6 @@ Logo and Navigation Styles
 }
 
 @media (min-width: 1000px) {
- 
   .header-box {
     display: flex;
     justify-content: space-between;
@@ -198,7 +199,6 @@ Logo and Navigation Styles
   .signup-link {
     font-size: 1.125rem;
   }
-
 }
 
 /* ========================================================
@@ -206,7 +206,7 @@ Hero Section Styles
 ======================================================== */
 
 .hero-section {
-  background-color: #3B4050;
+  background-color: #3b4050;
 }
 
 .hero-box {
@@ -218,19 +218,19 @@ Hero Section Styles
   font-weight: 600;
   font-size: 3rem;
   line-height: 3rem;
-  color: #FFFFFF;
+  color: #ffffff;
   margin: 0;
   text-align: center;
 }
 
 .hero-title-diff {
-  color: #A59678;
+  color: #a59678;
   font-size: 2.2rem;
 }
 
 .hero-desc {
   font-family: "Montserrat", sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   display: block;
   max-width: 600px;
@@ -247,8 +247,8 @@ Hero Section Styles
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 1.15rem;
-  color: #FFFFFF;
-  background-color: #A59678;
+  color: #ffffff;
+  background-color: #a59678;
   display: block;
   margin: 0 auto;
 }
@@ -301,7 +301,7 @@ Offer Section Styles
 ======================================================== */
 
 .offer-section {
-  background-color: #F1F1F1;
+  background-color: #f1f1f1;
 }
 
 .offer-box {
@@ -318,7 +318,7 @@ Offer Section Styles
   margin: 0;
   font-family: "Oswald", sans-serif;
   font-weight: 700;
-  color: #A59678;
+  color: #a59678;
 }
 
 .offer-desc {
@@ -359,7 +359,7 @@ Info Section Styles
 .info-left-title {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  color: #A59678;
+  color: #a59678;
   margin: 0;
 }
 
@@ -369,7 +369,7 @@ Info Section Styles
 }
 
 .info-right-item {
-  background-color: #3B4050;
+  background-color: #3b4050;
   padding: 1em;
   text-align: center;
 }
@@ -381,12 +381,12 @@ Info Section Styles
 .info-right-item-title {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .info-right-item-text {
   font-family: "Montserrat", sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   line-height: 1.75rem;
 }
 
@@ -448,7 +448,7 @@ Footer Section Styles
 ======================================================== */
 
 .footer-section {
-  background-color: #3B4050;
+  background-color: #3b4050;
 }
 
 .footer-box {
@@ -459,7 +459,7 @@ Footer Section Styles
   font-family: "Oswald", sans-serif;
   font-weight: 700;
   font-size: 2rem;
-  color: #FFFFFF;
+  color: #ffffff;
   text-align: center;
   margin: 0;
 }
@@ -470,15 +470,16 @@ Footer Section Styles
   margin: 0 auto;
 }
 
-.footer-text-title, .footer-link-group-title {
+.footer-text-title,
+.footer-link-group-title {
   font-family: "Oswald", sans-serif;
   font-weight: 600;
-  color: #A59678;
+  color: #a59678;
 }
 
 .footer-text {
   font-family: "Montserrat", sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   line-height: 1.75rem;
 }
 
@@ -497,7 +498,7 @@ Footer Section Styles
 .footer-link-group-link {
   font-family: "Montserrat", sans-serif;
   text-decoration: none;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .footer-link-group-item + .footer-link-group-item {
@@ -506,7 +507,7 @@ Footer Section Styles
 
 .footer-link-group-link:hover,
 .footer-link-group-link:focus {
-  opacity: .75;
+  opacity: 0.75;
 }
 
 @media (min-width: 700px) {
@@ -525,13 +526,13 @@ Footer Section Styles
     width: 26%;
   }
 
-  .footer-text-title, .footer-text {
+  .footer-text-title,
+  .footer-text {
     text-align: left;
   }
 }
 
 @media (min-width: 1000px) {
-
   .footer-box {
     padding-bottom: 7em;
   }
@@ -549,5 +550,4 @@ Footer Section Styles
   .footer-text-box {
     width: 30%;
   }
-
 }
